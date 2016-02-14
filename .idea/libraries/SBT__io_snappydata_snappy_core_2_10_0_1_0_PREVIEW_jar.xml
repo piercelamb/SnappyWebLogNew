@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: io.snappydata:snappy-core_2.10:0.1.0-PREVIEW:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.snappydata/snappy-core_2.10/jars/snappy-core_2.10-0.1.0-PREVIEW.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.snappydata/snappy-core_2.10/docs/snappy-core_2.10-0.1.0-PREVIEW-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.snappydata/snappy-core_2.10/srcs/snappy-core_2.10-0.1.0-PREVIEW-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

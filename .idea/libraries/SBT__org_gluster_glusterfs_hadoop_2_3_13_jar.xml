@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.gluster:glusterfs-hadoop:2.3.13:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.gluster/glusterfs-hadoop/jars/glusterfs-hadoop-2.3.13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.gluster/glusterfs-hadoop/docs/glusterfs-hadoop-2.3.13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.gluster/glusterfs-hadoop/srcs/glusterfs-hadoop-2.3.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

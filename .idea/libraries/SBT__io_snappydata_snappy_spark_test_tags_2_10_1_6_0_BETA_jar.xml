@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: io.snappydata:snappy-spark-test-tags_2.10:1.6.0-BETA:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.snappydata/snappy-spark-test-tags_2.10/jars/snappy-spark-test-tags_2.10-1.6.0-BETA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.snappydata/snappy-spark-test-tags_2.10/docs/snappy-spark-test-tags_2.10-1.6.0-BETA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.snappydata/snappy-spark-test-tags_2.10/srcs/snappy-spark-test-tags_2.10-1.6.0-BETA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
